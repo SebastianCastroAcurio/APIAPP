@@ -1,6 +1,6 @@
 # APIAPP
 
-APIAPP es una aplicación que consiste en consumir una API con React para obtener la portada, título, género, idioma, reparto, premios y nominaciones y sinopsis de películas en base a una búsqueda.
+APIAPP es una aplicación que consiste en consumir una API con React para obtener la portada, título, género, idioma, reparto, premios, nominaciones y sinopsis de películas en base a una búsqueda por su nombre.
 
 Para conseguir esto se utiliza la API de OMDb que es un servicio web RESTful para obtener información de películas.
 
